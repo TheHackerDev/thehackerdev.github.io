@@ -31,7 +31,7 @@ twitter_username: TheHackerDev
 github_username:  TheHackerDev
 
 # Build settings
-theme: minima
+theme: hacker
 plugins:
   - jekyll-feed
 
